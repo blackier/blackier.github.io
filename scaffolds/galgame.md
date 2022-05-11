@@ -1,9 +1,12 @@
 ---
 title: {{ title }}
 date: {{ date }}
-type:
 updated:
-description:
+tags:
+ - GalGame
+categories:
+ - Galgame
 keywords:
+description:
 top_img:
 ---
