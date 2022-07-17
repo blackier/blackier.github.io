@@ -3,10 +3,11 @@ title: {{ title }}
 date: {{ date }}
 updated:
 tags:
- - GalGame
+ - Galgame
 categories:
  - Galgame
 keywords:
 description:
 top_img:
+cover:
 ---
