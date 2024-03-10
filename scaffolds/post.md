@@ -7,4 +7,5 @@ categories:
 keywords:
 description:
 top_img:
+cover:
 ---
